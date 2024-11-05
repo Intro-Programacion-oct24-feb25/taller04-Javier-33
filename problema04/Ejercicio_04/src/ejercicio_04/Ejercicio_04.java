@@ -36,9 +36,9 @@ public class Ejercicio_04 {
         
         valor_total = (cpu+teclado+raton+pantalla);
         
-        System.out.printf("Reporte:\nNombres de clientes: %s\n"
-                + "Valores Inicales: \nCpu: %.1f\nTeclado: %.1f\n"
-                + "Raton: %.1f\nPantalla: %.1f\n\nValor a Cancelar: %.1f\n",
+        System.out.printf("Reporte:\nNombres de cliente: %s\n"
+                + "Valores Inicales: \nCpu: $ %.2f\nTeclado: $ %.2f\n"
+                + "Raton: $ %.2f\nPantalla: $ %.2f\n\nValor a Cancelar: $ %.2f\n",
                 nombre_completo,
                 cpu,
                 teclado,

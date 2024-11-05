@@ -34,8 +34,8 @@ public class Ejercicio_03 {
         planilla = (costo_minuto * minuto_mes);
         
         System.out.printf("Reporte:\nNombres Completos: %s\n\tDireccion: %s\n"
-                +"Costo por minuto: %.2f\n\tNumero de minutos consumidos: "
-                + "%.2f\n\t\tValor a cancelar: %.2f\n",
+                +"Costo por minuto: $ %.2f\n\tNumero de minutos consumidos: "
+                + "%.2f\n\t\tValor a cancelar: $ %.2f\n",
                 nombre_completo,
                 direccion,
                 costo_minuto,

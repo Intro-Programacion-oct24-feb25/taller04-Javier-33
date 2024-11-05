@@ -41,7 +41,7 @@ public class Ejercicio_02 {
         entrada.nextLine();
         gasto_total = (hijo1 + hijo2 + hijo3)/3;
         System.out.println("El promedio de gastos de " +nombre_hijo1 + ", " +
-                nombre_hijo2+ " y "+nombre_hijo3 + " es :" +gasto_total+"$");
+                nombre_hijo2+ " y "+nombre_hijo3 + " es : $" +gasto_total);
 
         // TODO code application logic here
     }
